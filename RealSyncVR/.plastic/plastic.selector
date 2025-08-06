@@ -1,0 +1,4 @@
+repository "RealSyncVR@niklas_gr@cloud"
+  path "/"
+    br "/main"
+    co "/main"
