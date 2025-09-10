@@ -463,7 +463,7 @@ public class OffsetController : MonoBehaviour
 
         bool exceededDelta = false;
 
-
+        //TODO: Avoid sudden trigger of residual, use smoothing filter
 
         if (residual > delta)
         {
