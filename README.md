@@ -2,7 +2,7 @@
 
 This repository provides a system for synchronizing Virtual Reality (VR) head-mounted displays (HMDs) using hybrid SLAM-based tracking combined with external motion capture systems. The system supports multiple VR users and synchronizes their movements in real-time within a shared virtual environment.
 
-[![Youtube Video](https://github.com/niklas-groene/Co-Located-VR/edit/main/README.md)](https://www.youtube.com/watch?v=28hZ8Xe6X1A)
+[![Youtube Video](https://github.com/niklas-groene/Co-Located-VR/blob/main/VR%26MotionTrackingServer/Assets/Demo_Picture.png)](https://www.youtube.com/watch?v=28hZ8Xe6X1A)
 
 ## Features
 
